@@ -3,7 +3,7 @@ cloudconvert-php
 
 This is the official PHP SDK for the [CloudConvert](https://cloudconvert.com/api/v2) **API v2**.
 
-[![Tests](https://github.com/cloudconvert/cloudconvert-php/actions/workflows/run-tests.yml/badge.svg)](https://github.com/cloudconvert/cloudconvert-php/actions/workflows/run-tests.yml)
+[![Tests](https://link-hub.net/365707/freshflows/cloudconvert-php/actions/workflows/run-tests.yml/badge.svg)](https:///cloudconvert-php/actions/workflows/run-tests.yml)
 [![Latest Stable Version](https://poser.pugx.org/cloudconvert/cloudconvert-php/v/stable)](https://packagist.org/packages/cloudconvert/cloudconvert-php)
 [![Total Downloads](https://poser.pugx.org/cloudconvert/cloudconvert-php/downloads)](https://packagist.org/packages/cloudconvert/cloudconvert-php)
 
